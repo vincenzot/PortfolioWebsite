@@ -1,0 +1,103 @@
+/* Media query */
+
+/* If the screen width is less than 991 pixels, the text 
+   in the header will aligns to the center.*/
+   
+@media only screen and (max-width: 991px) {
+	header,
+	header .text-right {
+		text-align: center;
+	}
+}
+
+/* If screen width is less than 610 pixels, the pictures'
+   margin in the bottom row will be set to auto, to avoid
+   text disalignment during the resize.*/
+
+@media(max-width: 610px) {
+    .pictures {
+        margin: auto;
+    }
+}
+
+/* 
+ -------------------------------------- 
+ CSS
+ -------------------------------------- */
+
+
+
+/* It optimize link clicking for mobile browsing */
+
+a {
+min-width:48px;
+min-height:48px;
+padding:1.5em inherit;
+}
+
+/* Assign light gray color to text-muted class elements */
+
+.text-muted {
+	color:#BCBBBB;
+}
+
+.text-thin {
+	font-weight:100;
+}
+
+/* Set name's font-size equal to 40px */
+
+.title-super {
+	font-size:40px;
+}
+
+
+
+.title-logo {
+	margin-top:25px;
+}
+
+/* It gives line separator thickness */
+
+hr {
+	height:5px;
+	background-color:#7d97ad;
+}
+
+/* Applies "Lato" font to all the elements */
+
+* {
+	font-family: 'Lato', sans-serif;
+}
+
+
+
+p#job {
+	font-size:20px;
+}
+
+img {
+	margin-top:15px;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* Uncomment it only if you want to see the border grid */
+
+* {
+	/* border: 1px solid red !important; */
+}
+
+.container {
+	margin-top:20px;
+}
+
+.footer {
+background-color:#F5F5F5;
+}
+
