@@ -8,26 +8,26 @@ A basic portfolio Website where users can view your featured work.
 #Change the name
 1. Open **index.html** file with a text editor and change this string
 ```
-<h1 class="title-super text-thin"><p id="name">Vincenzo Tartaglia</p></h1>
+<h1 class="title-super text-thin">Vincenzo Tartaglia</h1>
 ```
 ```
-<h1 class="title-super text-thin"><p id="name">Your Name</p></h1>
+<h1 class="title-super text-thin">Your Name</h1>
 ```
 2. You can also edit the job written under the name (replace "Full Stack Web Developer" with your desired one):
 ```
-<h4><p id="job">Full Stack Web Developer</p></h4>
+<h4>Full Stack Web Developer</h4>
 ```
 #Change the avatar
 1. Open **index.html** file with a text editor and change the src url in this string
 ```
-<img class="title-logo" src="img/avatar1.jpg" height="100px" width="100px" alt="Portfolio Logo" />
+<img class="title-logo" src="img/avatar1.jpg" height="100" width="100" alt="Portfolio Logo" />
 ```
 2. You can use a local picture or paste an URL.
 
 #Change the topbar picture
 1. Open **index.html** file with a text editor and change the src url in this string
 ```
-<img class="img-responsive main_picture" height="350px" width="1140px" src="img/topbar.jpg"/>
+<img class="img-responsive main_picture" height="350" width="1140" src="img/topbar.jpg"/>
 ```
 2. You can use a local picture or paste an URL.
 
