@@ -53,5 +53,5 @@ A basic portfolio Website where users can view your featured work.
 **Vincenzo Tartaglia**
 
   - http://github.com/vincenzot
-  - https://it.linkedin.com/in/vincenzo-tartaglia-33474a111
+  - https://www.linkedin.com/in/vincenzotartaglia/
   - http://stackoverflow.com/users/5861977/vincenzo-tartaglia
