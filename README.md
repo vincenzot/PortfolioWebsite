@@ -1,4 +1,4 @@
-# Portfolio Website - Udacity Nanodegree Project 2
+# Portfolio Website
 A basic portfolio Website where users can view your featured work.
 
 #Instructions
